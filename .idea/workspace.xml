@@ -5,7 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1418c0dd-b955-4621-a088-d08153cc4a82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/13c15004a5c86d3b9bbf38e2c0cabb73a37db3b2136acfb15b161b44a2050306.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2354fb7c31a5036c16b56c67f40ab1ad6798ef202a96dd81fdc384c9c2ac277e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2427795074488ffe22485d2ff88f2ea51a3d174779a22e1aac2abda19c288dd3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2aa547d0de1decde4ccbbac2628a68bfdd8848b269d1b90156f0e95877d67a65.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/325aa4203240e22f6a6a8023c1dfa22a0c7cbb65828ddcc631d22d3a034220e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/330d5b4eefa1d033c9e754f24f20c0578f54bfec633c80f41fa9032399a352be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/34a3c3c07fb93476e1304f6d3d92521ac3bbe45a2441eaf624400f1bcf4b88d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36661b154ad10a25de1d7388aa55a6ccba80ce87dcbfed8ef37a3ef3727359da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36c547409baff2e041aecfcd6fe5197c1155d31434316779f79da10122256c1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/40e8e2d463debeda0d3c6cbc3d9922d742d6b375b6bd247a2be503f01c71c2e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/42734494d879855b0c66c205492c29a5b3b52f40e680aae1487a50f4e9a3221a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4bc4ad9281050b6274362f8ccb28bbdca81b5bda593b1df6797fef77edd4a1e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4cc7dd6e6d099b6f75cc1b4e089106daa9114c174b6c5f9547cc3bc7bde75bca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4d723b6f01b0df2908fb6a8c0219ae98a305f5fc14eb13a3fc6aa2d77a252248.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5137db25b48a63cfcde059f89b3c432e2d0d49799e236a347d724e64526da7e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5634229dcec81bb06a47e23587eec81a1188270713480f06a3d94b15123da7d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5a0c190212bb56972df32c4cd3dbcc2f52bf867608a08bc88d50398885dc004b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5fd535960a296a95bae194298c5342e8b52be62384bf89e24e58e58524a19c2a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/600ae73cd5fc3369f63ad096d2c84bdc16f72e399e1f8cbb2bd3dab66b354e88.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/620b3e126595e37046d8db8f5c2a9096929669e86714baa444b3c68e8120c1df.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/64c55d2a26a46ca639dec674562c7e1d7aa7177cae1cdd4ae9560e8cb7435624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6cb5aa51607af321e3a2be184aa6ebc1ac555a3bd6bf9ad90c5e46f00d8d9792.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/72d3c2b905101651d2965f078e4e73b652b9ce3bc76f3713808b0b9d65aa6ffd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7468f5f347d05e60337a05a2e7ceaf4e7b53c84829306601df7733e40f554f60.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/762b3667845d75aab7d0189810fe6126aeeed9a54a9ef46d9a0017ee1b51233c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/813e6f5a7ee1f56164c9b5e1a73e43a23a64a9e1341204a7c8547c3f352aa007.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/87986adbeb7f977021cc88174144f121fa244b7fe844cef052a5640f50719a31.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/985b21929485918a0752d94e1dcd4ca42ba23e775ed8c62e405863f73d38f65a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a2a1d39368021fe9090a1ca7f46ab15d691ddfa4b7ef32548961f9f29c229e33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a995574d489c942e1b41b9cf2c62a657c31ca786d371fa1be32724c6cf8446e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aa50ccd44ca13840169cf0c44beae837a7f21aa6a4fca1fe3e7e2c7b6d215efb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b73f63212f52b236ef4572f4d175bf3ee93e5d52019e8b405c4b6bb29467f51e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b9e47882941abd7d3bf8bc7e763212e16cbaaa8d8eb305b5d6452ff282d12cea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca88968fea3cd30d9c7cdaa27b894468a9b8be3a689ce250a094ed45840f91ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca999aa31e49b5784032bc36f84ca7a4150bf2ff3daaed8a648c526ee43ff612.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cfaf18b28735c85bcf0b82cdb1908c799ee6c350d5ef588c21d480b471e87b4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d6c460e08a1aecb58644546375c48fc1754e8096f90484215df8e66ef36ba094.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d6cdf22b94a37068737a377a4fefb3940bf7761a58ed85bc8d7cfacea52f0cb9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/df2845e70337bf7c449283f7c38c014f46ca52220a84d74048b25e25efa65245.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e5d2359e70307cfcb87c6257335f93d18a9ce999fddc1e337d5181133c0f0809.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e83626b6fa4cfd3be724a04a4be6fc1fb3c34b5cc43bb8c667c15b13465ce7c7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ec88435ec91b9b59f723d9bf22adc4154490fd56a849e225a36315445069b0ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fa777a45206410157b35fa4332febf034a856290005ad876007d43bc520d9f20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc70dea544203a238c9f53ebaf2f1470622d815d30e6509aab643e5bb9055944.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fd5e448e3f8f6afa78a313ee71122d356916f73e424171aad301b63ed6492529.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Clock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomHooksSample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UseContentSample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UseMemoSample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UseRefSample.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/12.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/13.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/13.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/14.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/14.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/15.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/15.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/16.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/16.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/tsconfig.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +99,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/Users/toshiya/react-sample/src/components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "/Users/toshiya/react-sample/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/chapter3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/toshiya/react-sample/src/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/toshiya/react-sample/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
@@ -65,6 +138,11 @@
       <workItem from="1692800402931" duration="2628000" />
       <workItem from="1692922947736" duration="2254000" />
       <workItem from="1693008488102" duration="4178000" />
+      <workItem from="1693317087228" duration="1647000" />
+      <workItem from="1693530354088" duration="3636000" />
+      <workItem from="1693668337669" duration="3072000" />
+      <workItem from="1693789256201" duration="3561000" />
+      <workItem from="1693875607500" duration="323000" />
     </task>
     <servers />
   </component>
